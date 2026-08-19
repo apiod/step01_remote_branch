@@ -1,7 +1,7 @@
 package mvc.controller;
 
 public class OrderController {
-	public void select() {
+	public void select() {	
 		
 	}
 }
